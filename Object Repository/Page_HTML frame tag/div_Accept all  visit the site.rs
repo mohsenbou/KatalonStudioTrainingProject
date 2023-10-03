@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Accept all  visit the site</name>
+   <tag></tag>
+   <elementGuidId>1332b571-3d11-4069-9efd-5170b1005632</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#accept-choices</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='accept-choices']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e1ff2827-8a10-4065-8001-82bd4cf4922e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sn-b-def  sn-blue</value>
+      <webElementGuid>89839bf1-e9a5-4c37-bb57-698ce3afa2fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>accept-choices</value>
+      <webElementGuid>d748e117-fea9-4607-a6ca-e77a3bcaa022</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Accept all &amp; visit the site</value>
+      <webElementGuid>8dfead04-9f9e-4c43-babf-56a124adc597</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;accept-choices&quot;)</value>
+      <webElementGuid>d99febc6-d551-4654-9385-065f7b5f318a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='accept-choices']</value>
+      <webElementGuid>dcf505aa-6af6-4def-9199-9eaf3db06de2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='snigel-cmp-framework']/div/div/div/div[3]/div/div[2]</value>
+      <webElementGuid>2b937cc0-fc0f-42b0-a7a4-e5fc87b6d9e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Customise choices'])[1]/following::div[1]</value>
+      <webElementGuid>496bd511-07eb-46ac-810b-ec9e341c2759</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='privacy policy page'])[1]/following::div[4]</value>
+      <webElementGuid>f42d5289-28ab-4aab-a9f2-7775006d0a83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Accept all &amp; visit the site']/parent::*</value>
+      <webElementGuid>518f90b0-d73b-44cc-8d86-f783d62ea766</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div[3]/div/div[2]</value>
+      <webElementGuid>3e3e0102-0154-40df-97c3-7223f7996d91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'accept-choices' and (text() = 'Accept all &amp; visit the site' or . = 'Accept all &amp; visit the site')]</value>
+      <webElementGuid>8f525952-54f1-46b9-ab06-677f99570b63</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
